@@ -4,7 +4,7 @@ set -Eeuo pipefail
 #############################################
 # Matrix Stack Manager - v1.6-local-ca
 # Telegram: https://t.me/amirabbas_jadidi
-# YouTube:  https://github.com/Amirabbasjadidi/PD-Element-Local
+# Github:  https://github.com/Amirabbasjadidi/PD-Element-Local
 #############################################
 
 LOG_FILE="/var/log/matrix-installer.log"
